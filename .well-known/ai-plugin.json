@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Nutrition Calculator",
+  "name_for_model": "nutrition_calculator",
+  "description_for_human": "Calculate protein and calories based on your ingredient list.",
+  "description_for_model": "A plugin to calculate nutrition details for given ingredients.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://script.google.com/macros/s/AKfycbxneSN-BT-fjzzh5DIq1_WL8GK-ALbQO1QPt5mCEoWJ-AuMHl5odohMFl3qZH41GFUE0g/exec",
+    "is_user_authenticated": false
+  },
+  "logo_url": "https://example.com/your-logo.png",
+  "contact_email": "your.email@example.com",
+  "legal_info_url": "https://example.com/legal"
+}
